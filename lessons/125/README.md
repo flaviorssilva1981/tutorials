@@ -1,4 +1,4 @@
-# How to create EKS Cluster using Terraform MODULES (AWS Load Balancer Controller + Autoscaler + IRSA)
+# How to create EKS Cluster using Terraform MODULES (AWS Load Balancer Controller + Autoscaler + IRSA) - Flavio - 2023
 # Architecture Diagram
 ![Diagram](assets/architecture_diagram.png?raw=true "Architecture Diagram")
 
